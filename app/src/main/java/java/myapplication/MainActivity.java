@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         //教师信息注册
     }
 
+    private void studentlogin(){
+        //学生信息注册
+    }
+
 }
