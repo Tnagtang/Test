@@ -24,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
         //学生信息检查功能
     }
 
+    private void push(){
+        //测试push操作
+    }
+
 }
