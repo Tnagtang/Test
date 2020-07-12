@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
         //学生信息注册
     }
 
+    private void studentcheck(){
+        //学生信息检查功能
+    }
+
 }
